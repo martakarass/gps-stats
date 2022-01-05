@@ -40,3 +40,7 @@ vignettes/*.pdf
 
 # MK-added
 data/run.gpx.xml
+data_raw/*
+
+
+
